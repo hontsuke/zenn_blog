@@ -9,6 +9,6 @@
   "keywords": [],
   "type": "commonjs",
   "dependencies": {
-    "zenn-cli": "^0.5.3"
+    "zenn-cli": "^0.5.4"
   }
 }

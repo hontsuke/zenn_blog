@@ -7,8 +7,15 @@ topics:
   - "github"
   - "gitlab"
   - "バージョン管理"
-published: false
+  - "Git勉強しなきゃを終わらせる"
+published: true
+published_at: "2026-09-30 12:00"
 ---
+
+:::message
+連載「AI時代の個人開発とGit運用」の3話です。
+前の話：[SVNを使っていた自分がGitに移った理由](https://zenn.dev/hontsuke/articles/git-series-02)
+:::
 
 ## 名前が似ているから、ややこしい
 

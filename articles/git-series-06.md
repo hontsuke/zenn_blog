@@ -7,12 +7,19 @@ topics:
   - "gitlab"
   - "github"
   - "バージョン管理"
-published: false
+  - "Git勉強しなきゃを終わらせる"
+published: true
+published_at: "2026-10-03 12:00"
 ---
+
+:::message
+連載「AI時代の個人開発とGit運用」の外伝です。
+前の話：[AI時代の個人開発でGit Flowを考え直した](https://zenn.dev/hontsuke/articles/git-series-05)
+:::
 
 ## GitHubでは書けない。GitLabでは書けすぎる
 
-本編の5話でも少し触れましたが、このGit連載を書いている途中で、妙なことが起きました。
+本編の[5話](https://zenn.dev/hontsuke/articles/git-series-05)でも少し触れましたが、このGit連載を書いている途中で、妙なことが起きました。
 
 記事のレビューにはChatGPTを使っています。
 

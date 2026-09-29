@@ -11,7 +11,7 @@ published: true
 ---
 
 :::message
-連載「AI時代の個人開発とGit運用」の1話です。
+連載「[Git勉強しなきゃを終わらせる](https://zenn.dev/topics/git勉強しなきゃを終わらせる)」の1話です。
 :::
 
 ## とりあえず、フォルダごとコピーする

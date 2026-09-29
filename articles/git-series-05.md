@@ -13,7 +13,7 @@ published_at: "2026-10-02 12:00"
 ---
 
 :::message
-連載「AI時代の個人開発とGit運用」の5話です。
+連載「[Git勉強しなきゃを終わらせる](https://zenn.dev/topics/git勉強しなきゃを終わらせる)」の5話です。
 前の話：[なぜブランチが必要なのか](https://zenn.dev/hontsuke/articles/git-series-04)
 :::
 

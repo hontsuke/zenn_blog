@@ -13,7 +13,7 @@ published_at: "2026-09-29 12:00"
 ---
 
 :::message
-連載「AI時代の個人開発とGit運用」の2話です。
+連載「[Git勉強しなきゃを終わらせる](https://zenn.dev/topics/git勉強しなきゃを終わらせる)」の2話です。
 前の話：[「最新版」フォルダが増殖していませんか？――変更履歴管理の話](https://zenn.dev/hontsuke/articles/git-series-01)
 :::
 

@@ -13,7 +13,7 @@ published_at: "2026-09-30 12:00"
 ---
 
 :::message
-連載「AI時代の個人開発とGit運用」の3話です。
+連載「[Git勉強しなきゃを終わらせる](https://zenn.dev/topics/git勉強しなきゃを終わらせる)」の3話です。
 前の話：[SVNを使っていた自分がGitに移った理由](https://zenn.dev/hontsuke/articles/git-series-02)
 :::
 

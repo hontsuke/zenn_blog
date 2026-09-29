@@ -13,7 +13,7 @@ published_at: "2026-10-03 12:00"
 ---
 
 :::message
-連載「AI時代の個人開発とGit運用」の外伝です。
+連載「[Git勉強しなきゃを終わらせる](https://zenn.dev/topics/git勉強しなきゃを終わらせる)」の外伝です。
 前の話：[AI時代の個人開発でGit Flowを考え直した](https://zenn.dev/hontsuke/articles/git-series-05)
 :::
 

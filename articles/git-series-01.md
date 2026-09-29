@@ -238,3 +238,7 @@ SVNもれっきとしたバージョン管理システムなので、この記�
 じゃあ、なぜ自分はGitに移ったのか。
 
 次は、そのSVNの話から始めようと思います。
+
+:::message
+次の話：[SVNを使っていた自分がGitに移った理由](https://zenn.dev/hontsuke/articles/git-series-02)
+:::

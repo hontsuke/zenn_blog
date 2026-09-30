@@ -236,3 +236,7 @@ GitLabも必要ありません。
 そしてGitそのものは、どこまで一人で動けるのか。
 
 次は、そのあたりの話をしてみようと思います。
+
+:::message
+次の話：[GitとGitHub/GitLabは別物](https://zenn.dev/hontsuke/articles/git-series-03)
+:::

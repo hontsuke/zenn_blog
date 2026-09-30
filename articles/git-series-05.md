@@ -633,3 +633,7 @@ AIがそこに加わっても、この問題はなくなりません。
 そのためにGitを使う。
 
 AI時代になっても、そこは変わらないようです。
+
+:::message
+次の話：[なぜ自分はGitHubではなくGitLabを使っていたのか](https://zenn.dev/hontsuke/articles/git-series-06)
+:::

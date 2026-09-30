@@ -365,3 +365,7 @@ SourcetreeのようなGUIや、GitLabの画面では、ブランチがどこか�
 特に、ブランチはそうです。
 
 次は、そのあたりを実際に見ながら考えてみようと思います。
+
+:::message
+次の話：[なぜブランチが必要なのか](https://zenn.dev/hontsuke/articles/git-series-04)
+:::

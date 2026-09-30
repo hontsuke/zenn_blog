@@ -386,3 +386,7 @@ AI自身がコードを書きます。
 **AI時代の個人開発で、ブランチやGit Flowをどう考えるか。**
 
 実際に今この連載でやっていることも含めて、考えてみます。
+
+:::message
+次の話：[AI時代の個人開発でGit Flowを考え直した](https://zenn.dev/hontsuke/articles/git-series-05)
+:::
